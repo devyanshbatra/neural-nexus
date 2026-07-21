@@ -1,0 +1,11 @@
+langchain
+langchain-community
+langchain-ollama
+langchain-core
+langgraph
+python-dotenv
+pydantic
+chromadb
+neo4j
+langchain-neo4j
+pypdf
